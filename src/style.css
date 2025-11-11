@@ -10,3 +10,30 @@
 body{
 	background:  lightblue;
 }
+
+header{
+	background:  #333;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+#dropdown-button{
+	background:  #333;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.dropdown-content{
+	background:  #333;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#dropdown-button + .active{
+	background-color:red;
+}
