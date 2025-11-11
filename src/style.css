@@ -1,0 +1,12 @@
+@import 'https://use.typekit.net/oov2wcw.css';
+
+*{
+  margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: century-gothic, sans-serif;
+}
+
+body{
+	background:  lightblue;
+}
